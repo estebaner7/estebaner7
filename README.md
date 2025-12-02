@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Header Banner (you can replace it with your own image later) -->
+![Header](https://img.shields.io/badge/Welcome%20to%20my%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-**estebaner7/estebaner7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Esteban
 
-Here are some ideas to get you started:
+A passionate and self-taught developer in training.  
+I’m building my path toward a professional career in tech, with strong interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Game development  
+- 📱 App development  
+- 🤖 Artificial Intelligence  
+- 💻 Web development (Front-end & Back-end)
+
+---
+
+## 🚀 Currently Learning
+
+- **HTML, CSS, JavaScript**
+- **Programming fundamentals**
+- **Git & GitHub**
+- **Good development practices**
+- **Front-end and Back-end basics**
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estebaner7&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebaner7&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+- Email:  eruvalcaba797@gmail.com
+
+---
+
+## ✨ About Me
+
+I’m a constant learner with a strong motivation to grow in the software world.  
+I believe in learning from scratch, building my own projects, and progressing step-by-step toward a professional tech career.
+
+---
+
+⭐ *Thanks for visiting my profile — I’m just getting started, but fully committed to growing every day!*
+
+
