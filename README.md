@@ -36,15 +36,6 @@ I’m building my path toward a professional career in tech, with strong interes
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=estebaner7&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=estebaner7&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 📫 Contact Me  
 - Email:  eruvalcaba797@gmail.com
 
